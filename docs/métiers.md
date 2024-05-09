@@ -2,7 +2,7 @@
 Il est possible de gagner des crédits sur Pickaria en exerçant un métier.
 Pour rejoindre un métier, tu peux utiliser la commande `/jobs join` suivie du nom du métier.
 Par exemple `/jobs join miner` pour rejoindre le métier de mineur.
-Mais je te conseille de passer par le menu pour avoir une interface graphique plus accueillante qui liste tous les métiers.
+Mais je te conseille de passer par la commande `/menu` puis de cliquer sur la sous-catégories "Métiers" pour avoir une interface graphique plus accueillante qui liste tous les métiers.
 Le menu permet de rejoindre ou quitter un métier avec un simple clic.
 Chaque joueur peut avoir un seul métier à la fois.
 Il faut attendre 1 heure avant de pouvoir quitter son métier.
@@ -43,5 +43,3 @@ Une ascension dans son métier au niveau 90 permet d'obtenir une récompense lé
 Une ascension dans son métier au niveau 100 permet d'obtenir une récompense mythique.
 
 La quantité d'ascensions réalisée permet d'avoir un suffixe customisé.
-
-Le menu est accessible avec la commande `/menu`, si tu souhaites un menu spécifique, par exemple le menu des métiers, tu peux rajouter son nom en premier paramètre de la commande : `/menu jobs`.
