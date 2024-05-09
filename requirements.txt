@@ -1,0 +1,9 @@
+faiss-cpu
+fastapi
+langchain
+langchain_openai
+langserve
+pydantic==1.10.13
+sse_starlette
+unstructured[all-docs]
+uvicorn
